@@ -9,7 +9,7 @@ Burada qısaca ArrayDeque sinfi haqqında məlumat və nümunələr öz əksini 
 #### ArrayDeque sinfini çağırma
 
 ```http
-  ArrayDeque<Tip*> dəyişənAdı = new ArrayDeque<>();
+ArrayDeque<Tip*> dəyişənAdı = new ArrayDeque<>();
 ```
  *Tip - non-primitivlər (int, boolean, char ...) istifadə oluna bilməz.
 İstifadə oluna bilər : `String`, `Integer`,`Long`...
